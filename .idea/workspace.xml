@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a63c5660-e14d-4ae5-aee5-75c466a9f1f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/aula09a_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula09a_ArquivoNotas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aula10a_.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -245,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595451040986</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Adição dos exercícios das aulas 9 e 10">
+      <created>1595610470473</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595610470473</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -293,7 +297,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="Adição de novos exercícios" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adição de novos exercícios" />
+    <MESSAGE value="Adição dos exercícios das aulas 9 e 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adição dos exercícios das aulas 9 e 10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
